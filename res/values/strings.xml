@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Dialog</string>
+    <string name="hello_world">Hello wgcwgc!</string>
+    
+    
+    <string name="action_settings">Settings</string>
+    <string name="设置">设置</string>
+    <string name="shezhi">shezhi</string>
+    
+    <string name="button1">提示信息选择对话框</string>
+    <string name="button2">普通列表选择对话框</string>
+    
+    <string name="button3">带单选的选择对话框</string>
+	<string name="button4">带多选的选择对话框</string>
+	
+	<string name="button5">自定义的视图对话框</string>
+	<string name="button6">自拓展的视图对话框</string>
+	
+	<string name="button7">显示图片文字对话框</string>
+	<string name="button8">同时显示图文对话框</string>
+	
+	<string name="button9">自定义显示的对话框</string>
+	
+	<string name = "username">请输入用户名</string>
+	<string name = "password">请输入密码</string>
+	
+	
+</resources>
